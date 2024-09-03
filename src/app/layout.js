@@ -13,6 +13,9 @@ export const metadata = {
   icons: {
     icon: "/han.svg", // 파비콘 설정
   },
+  verification: {
+    google: '<meta name="google-site-verification" content="aTGoE3RmJz8fo-eUXAjOjIREX3CXXcOQ3sdi2LGsnkQ" />',
+  },
 };
 
 export default function RootLayout({ children }) {
