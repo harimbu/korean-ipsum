@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://korean-ipsum.vercel.app/sitemap.xml
