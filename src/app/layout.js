@@ -14,7 +14,10 @@ export const metadata = {
     icon: "/han.svg", // 파비콘 설정
   },
   verification: {
-    google: '<meta name="google-site-verification" content="aTGoE3RmJz8fo-eUXAjOjIREX3CXXcOQ3sdi2LGsnkQ" />',
+    google: 'aTGoE3RmJz8fo-eUXAjOjIREX3CXXcOQ3sdi2LGsnkQ',
+    other: {
+      'naver-site-verification': '7000559afc27035e2d161837a230d6ad2592865e',
+    },
   },
 };
 
