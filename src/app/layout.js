@@ -10,7 +10,6 @@ const notoSansKR = Noto_Sans_KR({
 export const metadata = {
   title: "한글입숨",
   description: "랜덤 한글 텍스트 생성기 - 고전 문학 작품에서 영감을 받아 랜덤한 문장과 문단을 쉽게 생성해보세요. 학생, 작가, 개발자에게 추천합니다.",
-  icons: {icon: "/han.svg"},
   keywords: ['한글입숨', '한숨', '한글로렘'],
 };
 
